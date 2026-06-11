@@ -153,7 +153,7 @@ File you will add: `screenshots/settings-ip-detection.png`
 ```md
 
 
-
+```
 
 
 ## 🔒 Privacy and Usage
