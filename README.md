@@ -155,11 +155,6 @@ File you will add: `screenshots/settings-ip-detection.png`
 
 
 
-```
-
-Once you create these PNG files and commit them into the `screenshots/` folder, the images will show up directly in the README on GitHub. [web:745][web:747]
-
----
 
 ## 🔒 Privacy and Usage
 
