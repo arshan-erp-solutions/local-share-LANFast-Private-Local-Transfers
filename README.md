@@ -132,7 +132,7 @@ Place your screenshots in a `screenshots/` folder in the repository, and adjust 
 
 ### 1. Sender Page
 
-File you will add: (./screenshots/sender-page.png)
+![Sender Page](./screenshots/sender-page.png)
 
 ```md
 
@@ -140,7 +140,7 @@ File you will add: (./screenshots/sender-page.png)
 
 ### 2. Receiver Page
 
-File you will add: `screenshots/receiver-page.png`
+![Receiver Page](./screenshots/receiver-page.png)
 
 ```md
 
@@ -148,7 +148,7 @@ File you will add: `screenshots/receiver-page.png`
 
 ### 3. Settings / IP Detection
 
-File you will add: `screenshots/settings-ip-detection.png`
+![Settings Page](./screenshots/settings-ip-detection.png)
 
 ```md
 
