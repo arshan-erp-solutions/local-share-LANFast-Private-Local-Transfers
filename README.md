@@ -152,21 +152,8 @@ File you will add: `screenshots/settings-ip-detection.png`
 
 ```md
 
-```
 
-### 4. Network Change (Router → Hotspot)
 
-File you will add: `screenshots/network-change-ip-update.png`
-
-```md
-
-```
-
-### 5. Device Status (Online / Offline)
-
-File you will add: `screenshots/device-status-online-offline.png`
-
-```md
 
 ```
 
