@@ -1,0 +1,29 @@
+{
+  "name": "local-share-lan",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "dev:client": "vite",
+        "build": "vite build",
+         "electron-build": "electron-builder",
+    "dev:server": "cd server && npm run dev",
+    "dev:all": "concurrently \"npm run dev:server\" \"npm run dev:client\""
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "framer-motion": "^10.16.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.20.0",
+    "socket.io-client": "^4.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "concurrently": "^10.0.3",
+    "vite": "^4.5.0"
+  }
+}
