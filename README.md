@@ -128,13 +128,12 @@ You can send files between devices on the same Wi‑Fi/router or hotspot without
 
 ## 🖼 Screenshots
 
-Place your screenshots in a `screenshots/` folder in the repository, and adjust the file names below to match your PNG files. This uses standard Markdown image syntax as recommended for GitHub READMEs. [web:745][web:744][web:747]
 
 ### 1. Sender Page
 
 ![Sender Page](./screenshots/sender-page.png)
 
-```md
+```
 
 ```
 
@@ -142,7 +141,7 @@ Place your screenshots in a `screenshots/` folder in the repository, and adjust 
 
 ![Receiver Page](./screenshots/receiver-page.png)
 
-```md
+```
 
 ```
 
@@ -150,7 +149,7 @@ Place your screenshots in a `screenshots/` folder in the repository, and adjust 
 
 ![Settings Page](./screenshots/settings-ip-detection.png)
 
-```md
+```
 
 
 ```
