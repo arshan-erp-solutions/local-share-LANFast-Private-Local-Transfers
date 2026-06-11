@@ -132,7 +132,7 @@ Place your screenshots in a `screenshots/` folder in the repository, and adjust 
 
 ### 1. Sender Page
 
-File you will add: `screenshots/sender-page.png`
+File you will add: (./screenshots/sender-page.png)
 
 ```md
 
